@@ -80,37 +80,3 @@ Both models are trained using caption sequences tokenized and padded to uniform 
 
 
 
-## .gitignore
-```gitignore
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environment
-venv/
-.env
-*.env
-
-# Jupyter Notebook Checkpoints
-.ipynb_checkpoints
-
-# Data & Model Artifacts
-/data/
-/models/
-*.h5
-*.pkl
-*.npz
-
-# Logs
-*.log
-logs/
-
-# OS files
-.DS_Store
-Thumbs.db
-```
-
----
-
-
